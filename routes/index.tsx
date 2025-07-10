@@ -4,7 +4,7 @@ export default function Home() {
   
   return (
     <div>
-        Hola mundo primer commit segundo commit merge
+        Hola mundo primer commit segundo commit merge tercer commit
     </div>
   );
 }
