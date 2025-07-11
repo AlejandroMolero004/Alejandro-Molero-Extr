@@ -1,10 +1,14 @@
 
+import Characters from "../islands/Characters.tsx";
 
-export default function Home() {
-  
+
+
+
+const Page=()=>{
   return (
     <div>
-        Hola mundo primer commit segundo commit merge tercer commit
+      <Characters/>
     </div>
-  );
+  )
 }
+export default Page
